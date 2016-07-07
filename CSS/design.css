@@ -1,0 +1,75 @@
+div {
+    /*border: 2px ;
+    border-radius: 10px;*/
+}
+
+.headPage
+{
+	font-size: 200%;
+	color: green;
+	background: #EFE8E8;
+}
+
+.phooter
+{
+    font-size: 120%;
+    color: green;
+    font-style: bold;
+    text-align: center;
+}
+
+.err
+{
+	font-size: 100%;
+	color: red;
+	background-color: #EFE8E8;
+}
+
+.name /*for showing the name of the user*/
+{
+	font-size: 120%;
+	background: #F3FAF7;
+	color: #076B42;
+}
+.corner
+{
+	background: #F4FAF8;
+}
+.center
+{
+	background: #B7FFCB;
+}
+.large
+{
+	font-size: 150%;
+}
+.edit
+{
+
+}
+.tit
+{
+    font-size: 150%;
+    font-style: bold;
+}
+
+
+    .btn-file {
+    position: relative;
+    overflow: hidden;
+    }
+    .btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 999px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+    }

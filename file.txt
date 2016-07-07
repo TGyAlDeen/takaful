@@ -1,0 +1,206 @@
+commit 20cbf7764710e5fa2bb2cfbcff36026b5a36def5
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Thu Jul 24 15:08:24 2014 +0300
+
+    good working version
+
+commit 0e11842e910259657be77deff26bce366532e5b9
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Thu Jul 24 14:41:09 2014 +0300
+
+    good working version
+
+commit ea0a108438705c3edccd622b6364bfb5702a6040
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Thu Jul 24 13:03:27 2014 +0300
+
+    good working version
+
+commit d9443f1923d24ec6003ceff53c8758042d2206cb
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Thu Jul 24 10:45:37 2014 +0300
+
+    good working version
+
+commit 1a966ff7ca7e75ed7d899cbb33cad7ee20af100f
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Thu Jul 24 02:44:41 2014 +0300
+
+    good working version
+
+commit b830a08d888022909e9fa96f92c40db0b51c90ed
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Thu Jul 24 01:53:50 2014 +0300
+
+    good working version
+
+commit d453457e0bde24d0b8ed0ecdba73b086e603ed83
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Thu Jul 24 01:26:41 2014 +0300
+
+    good working version
+
+commit 2eec0f1afdbc7d4335cf74064fa239226f71b914
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Thu Jul 24 01:01:16 2014 +0300
+
+    good working version
+
+commit c4c301648b8d13c50ee3de763ea47ab4b471ea46
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Thu Jul 24 00:12:05 2014 +0300
+
+    good working version
+
+commit ac42599a678c9594e46ef7c5779f3c229997c840
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Wed Jul 23 22:44:20 2014 +0300
+
+    good working version
+
+commit d48ff4a9a0e0a78d455987784fdc67eea3936a02
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Wed Jul 23 22:33:42 2014 +0300
+
+    good working version
+
+commit fbc8fa7b6ae8264e3e6ce28aa614d7b5f2bd5619
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Wed Jul 23 22:29:39 2014 +0300
+
+    good working version
+
+commit 89fe6652c1e43508989de2a4475b1a371a4f7f52
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Wed Jul 23 22:27:00 2014 +0300
+
+    good working version
+
+commit 5b81aae61a36011639159eca091bc337e8fdfd14
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Wed Jul 23 18:23:28 2014 +0300
+
+    errors
+
+commit 0c3d2af208e3a46aa9d12a735e9bb5239dc671ff
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Wed Jul 23 16:38:12 2014 +0300
+
+    working
+
+commit d61cd7035bbd471d1429c8e4e69a7d9b21e1c94b
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Wed Jul 23 12:42:51 2014 +0300
+
+    not sure
+
+commit 4c982075a072b027466979debfd7234440ac3c67
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Wed Jul 23 10:40:31 2014 +0300
+
+    not sure
+
+commit 3c563dcc45471ab0a3345bb848936a921b9872a7
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Wed Jul 23 09:54:50 2014 +0300
+
+    not sure
+
+commit 165c5c0f22b9efbfd8947daf2d814ffd29381959
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Tue Jul 22 22:49:23 2014 +0300
+
+    working
+
+commit 9ab001c6daf0aa54c577d4bdf19c125e233e23da
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Tue Jul 22 13:38:26 2014 +0300
+
+    half_working
+
+commit 7ba73728d60aa8ae311aa1318b445a3aae6c915d
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Tue Jul 22 05:54:35 2014 +0300
+
+    working_version
+
+commit aca6b1dd2cd41926c54a7bead27d9a4b66ad879b
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Sun Jul 20 19:13:10 2014 +0300
+
+    working_version
+
+commit 5a49fa0503fe1d6c5dc785b3a7b2696d19ffd0b1
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Thu Jul 17 17:57:03 2014 +0300
+
+    last_working_version
+
+commit 7c5e0dae658f32591f2b790a87c1ce39e4c32cf4
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Thu Jul 17 15:32:51 2014 +0300
+
+    first_Version
+
+commit 78b3cc91de4a61a170694f5ec16090afda9402a2
+Merge: 730092e 3cdc200
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Mon Jul 14 18:12:43 2014 +0300
+
+    a
+
+commit 730092ef15443f802fc68194ef2c5ac524d75d15
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Mon Jul 14 18:12:43 2014 +0300
+
+    layout version
+
+commit 3cdc2001ac7fe14df60b29ffbd7cc406bf08aca0
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Mon Jul 14 09:43:06 2014 +0300
+
+    Initial commit
+
+commit 7187c1b24371470dd5226a48fbad8b55d6664f0d
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Wed Jun 25 20:02:35 2014 +0300
+
+    last working version
+
+commit 113dccfce3e862ad7ec4d9cd467d36f53c2b3547
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Thu Jun 19 14:05:08 2014 +0300
+
+    last working version
+    
+    Signed-off-by: Alnour <alnour.ahmed@gmail.com>
+
+commit 495961a0fb4ffcf77afa419c4ae8613d15b7c21e
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Sun Jun 15 21:15:39 2014 +0300
+
+    adding edit feather + add prevous results facilities
+
+commit 41ed20e79fad2e18e978916a5a36ff3de68a7bb5
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Fri Jun 13 11:32:17 2014 +0300
+
+    adding class names
+
+commit accf78d721d75a519db63a0f18d98be637f8697d
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Thu Jun 12 02:33:54 2014 +0300
+
+    add debuging methods
+
+commit 76efd09723a3841a1fc6263b226040968dd8db21
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Thu Jun 12 02:23:53 2014 +0300
+
+    edit the scitpt file
+
+commit b194716d158e23dcb5c1b5eaf908fb8212958d68
+Author: Alnour <alnour.ahmed@gmail.com>
+Date:   Thu Jun 12 01:59:06 2014 +0300
+
+    Signed-off-by: Alnour <alnour.ahmed@gmail.com>
